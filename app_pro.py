@@ -373,5 +373,5 @@ if remaining == 0 and user_tier == 'free':
 
 # 底部
 st.markdown("---")
-st.caption("🤖 Prompt 优化器 Pro | 让每一次对话都更高效")
-st.caption("📧 联系：your-email@example.com | 🐦 Twitter: @yourhandle")
+st.caption("🤖 Prompt 优化器 Pro | Make every conversation more efficient")
+st.caption("📧 联系：wphj666@gmail.com | 🐦 Twitter: @yourhandle")
