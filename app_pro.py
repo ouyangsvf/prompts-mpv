@@ -48,7 +48,7 @@ class QuotaManager:
 quota_mgr = QuotaManager()
 
 with st.sidebar:
-    st.image("https://img.icons8.com/color/96/artificial-intelligence.png", width=80)
+    st.image("logo.png", width=80)
     st.title("Prompt 优化器 Pro")
     
     # 用户等级显示
